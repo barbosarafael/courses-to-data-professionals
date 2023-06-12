@@ -7,6 +7,7 @@ Metas:
 - Fazer um curso de negócio
   - Opção 1: https://www.fiap.com.br/shift/curso/negocios/pnl-e-o-mundo-dos-negocios-tecnicas-ferramentas-e-resultados-online/
   - Opção 2: https://www.fiap.com.br/shift/curso/negocios/analista-de-negocios-online/
+  - Opção 3: https://www.udemy.com/course/analise-de-negocios/
 - Fazer um curso de técnicas de apresentação
   - Opção 1: https://www.fiap.com.br/shift/curso/inovacao/storytelling-para-negocios-online/
   - Opção 2: https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/storytelling-tecnicas-de-apresentacao-e-media-training-1?oferta=102638
