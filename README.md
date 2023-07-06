@@ -1,14 +1,14 @@
-# Projeto Sênior
+# Cursos
 
-Projeto para melhorar as habilidades e ir para um cargo de Sênior
+Separei alguns cursos (a maioria são pagos) para melhorar as habilidades de comunicação, apresentação e etc. Eu especifiquei que era somente para profissionais de dados, mas servem para todos.
 
-Metas:
+A maioria dos cursos são de curta/média duração.
 
-- Fazer um curso de negócio
+- Negócio:
   - Opção 1: https://www.fiap.com.br/shift/curso/negocios/pnl-e-o-mundo-dos-negocios-tecnicas-ferramentas-e-resultados-online/
   - Opção 2: https://www.fiap.com.br/shift/curso/negocios/analista-de-negocios-online/
   - Opção 3: https://www.udemy.com/course/analise-de-negocios/
-- Fazer um curso de técnicas de apresentação
+- Técnicas de apresentação
   - Opção 1: https://www.fiap.com.br/shift/curso/inovacao/storytelling-para-negocios-online/
   - Opção 2: https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/storytelling-tecnicas-de-apresentacao-e-media-training-1?oferta=102638
 - Fazer um curso de oratória
@@ -20,7 +20,7 @@ Metas:
   - Opção 6: https://www.udemy.com/course/comuniquefalarempublico/
   - Opção 7: https://www.udemy.com/course/fale-melhor-em-publico/
   - Opção 8: 
-- Fazer um curso de gestão
+- Gestão
   - Opção 1: https://www.fiap.com.br/shift/curso/negocios/mindful-leadership-online/
   - Opção 2: https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/gestao-de-projetos-2?oferta=102618
   - Opção 3: https://educacao-executiva.fgv.br/cursos/live/curta-media-duracao-live/formacao-executiva-de-lideres?oferta=102015
